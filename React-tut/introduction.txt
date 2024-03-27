@@ -1,0 +1,9 @@
+Hello. I am a Full Stack Developer with 2.5 years of hands-on experience in MongoDB, Express.js, React.js, and Node.js, complemented by strong programming skills in JavaScript and Java. My proficiency extends to API design, Java frameworks like Spring, hibernate and a comprehensive skill set in Full Stack Development.
+
+Throughout my career, I have successfully contributed to impactful projects, such as the Thomas Cook web project, where I played a key role in its development and maintenance, utilizing the MERN stack and Agile methodologies. As a node developer my contribution includes designing robust schemas, implementing advanced aggregation pipelines for data analysis, and developing robust security access, ensuring seamless communication through RESTful APIs. As a react developer, my contribution includes creating and managing nested routes, fetching data asynchronously from the APIs, integrating route links, navigation elements & APIs into the application layout by collaborating closely with frontend developers, and ensuring a seamless user experience through dynamic outlet component rendering
+
+In my previous role at Birlasoft, I led the development of a Java-based FTPC solution for the IC Line Enhancement project at Entegris, United Kingdom. My responsibilities ranged from developing 'user authentication functionality' to 'product test analysis' functionality to mentoring to juniors, demonstrating proficiency in core Java, Spring, Spring Boot, and REST API development.
+
+My achievements include receiving client appreciation for excellent problem-solving and client-handling skills, as well as securing a top 5 position in the national-level Smart India Hackathon for the "Kamadhenu App" project and receiving a topper's scholarship at institute level.
+
+I am eager to bring my skills & commitment to your organization.
