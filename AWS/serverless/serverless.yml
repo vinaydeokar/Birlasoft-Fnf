@@ -1,0 +1,21 @@
+service: youtube-api
+frameworkVersion: "3"
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: ap-south-1
+
+functions:
+  youtubeHelloFn:
+    handeler: hello.handeler
+    events:
+      -httpApi:
+        path: /hello
+        method: GET
+  youtubeByeFn:
+    handeler: Bye.handeler
+    events:
+      -httpApi:
+        path: /bye
+        method: GET
